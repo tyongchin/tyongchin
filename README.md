@@ -78,11 +78,11 @@
   <tr>
     <!-- Project 1 -->
     <td align="center" width="320" valign="top">
-      <a href="https://github.com/CSD3401/NANOEngine">
+      <a href="https://github.com/tyongchin/nano-engine">
         <img src="./assets/NANOEngine_Screenshot.png" width="300" height="170" alt="Real-Time Simulation Engine"/></a>
       </a>
       <br><br>
-      <b>Real-Time Simulation Engine</b>
+      <b>3D Real-Time Simulation Engine</b>
       <br>
       Custom real-time simulation and rendering engine for 3D interactive applications.
       <br><br>
@@ -96,7 +96,7 @@
       <br><br>
       <b>N.A.N.O: The Last Line</b>
       <br>
-      A single-player 2D platformer built using my custom real-time simulation engine, featuring gameplay systems, level interaction in a post-apocalyptic world.
+      A single-player 2D platformer built using a [custom 2D real-time simulation engine](https://github.com/tyongchin/kigen-engine), featuring gameplay systems, level interaction in a post-apocalyptic world.
       <br><br>
       <b>C++ • ECS • OpenGL</b>
     </td>
