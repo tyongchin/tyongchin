@@ -96,7 +96,7 @@
       <br><br>
       <b>N.A.N.O: The Last Line</b>
       <br>
-      A single-player 2D platformer built using a [custom 2D real-time simulation engine](https://github.com/tyongchin/kigen-engine), featuring gameplay systems, level interaction in a post-apocalyptic world.
+      A single-player 2D platformer built using a <a href="https://github.com/tyongchin/kigen-engine" target="_blank" style="color: #000000 !important; text-decoration: underline;">custom 2D real-time simulation engine</a>, featuring gameplay systems, level interaction in a post-apocalyptic world.
       <br><br>
       <b>C++ • ECS • OpenGL</b>
     </td>
